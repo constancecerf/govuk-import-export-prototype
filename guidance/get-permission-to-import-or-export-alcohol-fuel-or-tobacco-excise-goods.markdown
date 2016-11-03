@@ -14,24 +14,17 @@ You must be registered with HMRC to produce excise goods or to handle excise goo
 
 If you’re registered with HMRC to produce excise goods, you can:
 
-- export the goods outside the EU without paying UK excise duty
-- export goods outside the EU after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
+- export the goods outside the UK without paying UK excise duty (in some circumstances)
+- export goods outside of the UK  after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
 - sell goods directly to consumers inside and outside the EU
 
 If you buy excise goods produced by someone else and the UK excise duty has already been paid, you can:
 
-- move goods outside the EU
+- move goods out of the UK
 - export goods overseas after UK excise duty has been paid - then claim back the UK excise duty through excise duty drawback
 - sell goods directly to overseas consumers
 
 There's a [ban on exporting high quality wines, spirits, cigars and cigarillos to North Korea](/guidance/exporting-luxury-goods-north-korea.html).
-
-
-$CTA
-
-Most countries restrict the sale of excise goods, and most require duty guarantees before you send any goods (including within the EU for duty suspended goods). [Research the legal and tax rules](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html) before you send any goods overseas.
-
-$CTA
 
 ### Scotch whisky
 
@@ -65,42 +58,35 @@ It’s free to apply and the certificates don’t expire (unless the country you
 
 ## Moving duty suspended goods within the EU
 
-You can sell duty suspended excise goods to someone based in the EU if they:
+You can supply duty suspended excise goods to someone based in the EU if they:
 
+- being moved from one excise warehouse to another 
 - are approved as a [‘warehouse keeper’ of excise goods](https://www.gov.uk/guidance/receiving-storing-and-moving-excise-goods) in the UK or another EU country
 - are approved to regularly import duty suspended goods from the EU or you're approved but you have to ask permission each time ("Registered Consignees" and "Temporary Registered Consignees")
-- have a ‘duty representative’ registered with HMRC acting for them
 
-If you follow the right processes, the excise duty isn’t payable until the goods are released. 
+If you follow the right processes, the excise duty isn’t payable until the goods are released for consumption.
 
 ###How to move duty suspended goods within the EU
 
-You can only move goods under excise duty suspension if either: 
+You can only move goods under excise duty suspension if either any import duty or import VAT due has been paid.
 
-* they’ve been made inside the EU
-* any import duty or import VAT due has been paid
-* they’re being sold as duty free goods through a [registered ‘export shop’](https://www.gov.uk/government/publications/excise-notice-197a-excise-goods-holding-and-movement) (for example, at an airport on on board an airplane)
+(https://www.gov.uk/government/publications/excise-notice-197a-excise-goods-holding-and-movement) (for example, at an airport on on board an airplane)
 
 Usually, you must use the [Excise Movement and Control System (EMCS)](https://www.gov.uk/guidance/excise-movement-and-control-system-how-to-register-and-use) to report that you’re moving excise goods in duty suspension.
 
 ## Moving duty paid goods overseas
 
-If you send excise goods to another country, that country will usually apply excise duty to the goods.
-
-So that you don’t pay excise duty twice, you can claim excise duty drawback on the UK excise duty that’s already been paid.
+So that excise duty isn't paid twice, you can claim excise duty drawback on the UK excise duty that’s already been paid.
 
 To claim excise duty drawback, you must be classed as a ‘revenue trader’ by HMRC - a business that’s involved in producing or selling excise goods. 
-
-Chewing tobacco doesn’t qualify for excise duty drawback if you’re sending it to another EU 
-country.
-
-[Question for SME: is chewing tobacco subject to excise duty at both ends, or is there an alternative way of avoiding double taxation?]
 
 ## Selling goods directly to consumers outside the UK
 
 You can only sell excise goods directly to consumers if the UK excise duty has been paid.
 
-##Selling foods in EU countries
+Most countries have conditions for sellers of excise goods, and most require duty guarantees before you send any goods (including within the EU for duty suspended goods). [Research the legal and tax rules](https://govuk-import-export.herokuapp.com/answer/choosing-export-market-ukti-experimental-sg.html) before you send any goods overseas.
+
+###Selling goods directly to consumers in EU countries
 
 Some EU countries charge excise duty on excise goods. As the seller, you’re responsible for paying the duty.
 
